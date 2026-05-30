@@ -1,5 +1,11 @@
 # bluetooth-mouse
 
+**What?** <br>
+I am making a custom bluetooth mouse. I will have the two standard clicks, a clickable scroll-wheel, and probably 2 side buttons. It uses a battery that is rechargeable via the USB-C build into the XIAO nRF52840.
+
+**Why?** <br>
+I got my current mouse a while ago. After 7 years of general use, with the recent years including lots of CAD using the mouse, it's in pretty rough shape. It's a wireless mouse with a USB reciever. There's no power switch, so the battery drains faster than it probably could. The clicks are worn out so I have to press closer to the palm of the mouse for the click to register, and I have to press harder. Also, its pretty dingy looking because the matte finish has worn off partly over the years. I want to make a custom bluetooth mouse to learn how to program something like this and use an optical sensor, but also so I can save ports on my computer and use a less gross, more functional mouse. I can also replace parts whenever needed (especially the 3D printed case parts).
+
 **BOM**
 |Part|Quantity|Total Cost|Source + Link|
 |---|---|---|---|
